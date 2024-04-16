@@ -1,0 +1,69 @@
+
+
+
+
+.container-fluid {
+    height: 70px;
+    background-color: pink;
+    
+}
+
+.navbar-nav-1{
+    padding: 10px 20px;
+    cursor: pointer;
+    color: orangered;
+
+}
+
+.navbar-nav-1:hover{
+    background-color: orange;
+    color: white;
+}
+
+.navbar-2 {
+    padding: 10px 20px;
+    cursor: pointer;
+    color: orangered;
+}
+
+.navbar-2:hover{
+    background-color: orange;
+    color: white;
+}
+
+.navbar-3{
+    padding: 10px 20px;
+    cursor: pointer;
+    color: orangered;
+
+}
+.navbar-3:hover{
+    background-color: orange;
+    color: white;
+}
+
+.navbar-4{
+    padding: 10px 20px;
+    cursor: pointer;
+    color: orangered;
+}
+
+.navbar-4:hover{
+    background-color: orange;
+    color: white;
+
+}
+
+.navbar-5{
+    padding: 10px 20px;
+    cursor: pointer;
+    color: orangered;
+
+}
+.navbar-5:hover{
+    background-color: orange;
+    color: white;
+}
+
+
+
