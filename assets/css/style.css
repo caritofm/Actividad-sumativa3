@@ -11,59 +11,105 @@
 .navbar-nav-1{
     padding: 10px 20px;
     cursor: pointer;
-    color: orangered;
+    color: white;
 
 }
 
 .navbar-nav-1:hover{
-    background-color: orange;
-    color: white;
+    background-color: white;
+    color: pink;
 }
 
 .navbar-2 {
     padding: 10px 20px;
     cursor: pointer;
-    color: orangered;
+    color: white;
 }
 
 .navbar-2:hover{
-    background-color: orange;
-    color: white;
+    background-color: white;
+    color: pink;
 }
 
 .navbar-3{
     padding: 10px 20px;
     cursor: pointer;
-    color: orangered;
+    color: white;
 
 }
 .navbar-3:hover{
-    background-color: orange;
-    color: white;
+    background-color: white;
+    color: pink;
 }
 
 .navbar-4{
     padding: 10px 20px;
     cursor: pointer;
-    color: orangered;
+    color: white;
 }
 
 .navbar-4:hover{
-    background-color: orange;
-    color: white;
+    background-color: white;
+    color: pink;
 
 }
 
 .navbar-5{
     padding: 10px 20px;
     cursor: pointer;
-    color: orangered;
+    color: white
 
 }
 .navbar-5:hover{
-    background-color: orange;
-    color: white;
+    background-color: white;
+    color: pink;
 }
 
+.imagen-fondo-1 {
+    width: 1550px;
+    height: 650px;
+    position: relative;
+    text-align: left;
+    color: pink;
+
+}
+
+.texto-imagen{
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    transform: translateY(-50%);
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.carousel-control-prev-icon {
+    background-color: black;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+.carousel-control-next-icon {
+    background-color: black;
+    margin-left: 20px;
+    border-radius: 10px;
+
+}
+
+.imagen-2 {
+    width: 1550px;
+    height: 650px;
+    position: relative;
+    
+   
+}
+width: 1550px;
+height: 650px;
+position: relative;
+text-align: left;
+color: pink;
 
 
