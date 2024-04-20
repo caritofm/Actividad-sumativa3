@@ -4,7 +4,7 @@
 
 .container-fluid {
     height: 70px;
-    background-color: pink;
+    background-color: fuchsia;
     
 }
 
@@ -106,10 +106,25 @@
     
    
 }
-width: 1550px;
-height: 650px;
-position: relative;
-text-align: left;
-color: pink;
+li{
+    color: aliceblue;
+}
 
+a:hover{
+    color: black;
+}
 
+a{
+    color: antiquewhite;
+    text-decoration-line: none;
+}
+
+.titulo{
+    color: brown;
+    text-align: center;
+}
+
+.texto{
+    color: rosybrown;
+    text-align: center;
+}
