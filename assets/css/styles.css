@@ -4,7 +4,7 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 50px;
-    overflow-x: hidden;
+    
     padding: 5rem 0;
 }
 * {
@@ -27,4 +27,8 @@ table {
     table-layout: auto;
   
 
+}
+
+img{
+    overflow-x: auto;
 }
