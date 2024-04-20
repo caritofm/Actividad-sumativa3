@@ -4,7 +4,7 @@
 
 .container-fluid {
     height: 70px;
-    background-color: pink;
+    background-color: fuchsia;
     
 }
 
@@ -119,6 +119,12 @@ a{
     text-decoration-line: none;
 }
 
-.texto{
+.titulo{
     color: brown;
+    text-align: center;
+}
+
+.texto{
+    color: rosybrown;
+    text-align: center;
 }
