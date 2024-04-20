@@ -2,67 +2,19 @@
 
 
 
-.container-fluid {
-    height: 70px;
-    background-color: fuchsia;
-    
-}
 
-.navbar-nav-1{
+
+.nav-link{
     padding: 10px 20px;
     cursor: pointer;
     color: white;
 
 }
 
-.navbar-nav-1:hover{
+.nav-link:hover{
     background-color: white;
-    color: pink;
-}
-
-.navbar-2 {
-    padding: 10px 20px;
-    cursor: pointer;
-    color: white;
-}
-
-.navbar-2:hover{
-    background-color: white;
-    color: pink;
-}
-
-.navbar-3{
-    padding: 10px 20px;
-    cursor: pointer;
-    color: white;
-
-}
-.navbar-3:hover{
-    background-color: white;
-    color: pink;
-}
-
-.navbar-4{
-    padding: 10px 20px;
-    cursor: pointer;
-    color: white;
-}
-
-.navbar-4:hover{
-    background-color: white;
-    color: pink;
-
-}
-
-.navbar-5{
-    padding: 10px 20px;
-    cursor: pointer;
-    color: white
-
-}
-.navbar-5:hover{
-    background-color: white;
-    color: pink;
+    color: rgb(219, 3, 140);
+    transition: .2;
 }
 
 .imagen-fondo-1 {
@@ -127,4 +79,7 @@ a{
 .texto{
     color: rosybrown;
     text-align: center;
+}
+a{
+    margin-right: 30px;
 }
